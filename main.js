@@ -1,8 +1,9 @@
-let APP_ID = "YOU-APP-ID"
+let APP_ID = "4f13e7ff05ee403b907da0f50bf50bb1"
 
 
-let token = null;
-let uid = String(Math.floor(Math.random() * 10000))
+let token = "0064f13e7ff05ee403b907da0f50bf50bb1IAA4JCiR6Imlc6tOOZTyO4O4I9PG0EnHnvJtugoLC7ZJmAx+f9gAAAAAEAALSwH7UQmLYgEA6ANRCYti";
+// let uid = String(Math.floor(Math.random() * 10000))
+let uid="test";
 
 let client;
 let channel;
